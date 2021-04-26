@@ -13,6 +13,6 @@ git push
 
 This is how you get it:
 cd Desktop
-git clone
+git clone https://github.com/bfairns/Project4.git
 or 
 git pull (cd Desktop/Project4)
